@@ -1,0 +1,8 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.autoImportCompletions": false,
+    "flake8.args": [
+        "--ignore=E402,F841,F401,E302,E305",
+        "--max-line-length=120"
+    ]
+}
